@@ -57,8 +57,43 @@ file = "config/fancymenu/options.txt"
 hash = "3aabaa9f6b8c0ea32227c2715e41c9d1f45ba880d0a324535b219cb723d53050"
 
 [[files]]
+file = "mods/accessories.pw.toml"
+hash = "ba7432aebc67e37b6adc4ccd296599dc0fd383f55d2026e79d3f7bb28fc2a89f"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "5b999a65cbb3ca23957558a6985a0ae9a5b7e5e28e371222cef3825d0d7f85da"
+metafile = true
+
+[[files]]
+file = "mods/asymmetric-battles-api.pw.toml"
+hash = "af5c15e8106d51bba9bc25415c4c3bdaa00efb72e6fa7d1e49c65134afcb04b9"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-mega-showdown.pw.toml"
+hash = "fff31a4e1b8891e2d654b3be08a85a8c09083b0203964c1aebb656b8371855fb"
+metafile = true
+
+[[files]]
+file = "mods/cobblemon-myths-and-legends-sidemod.pw.toml"
+hash = "dcddd73570fb0fdf95b42ed571983ad923612309c723e030b0875ea003fab8f1"
+metafile = true
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "7b456ba44d7ffde560f6a98edb9012fe17a8e47a74ff3701ec9026c07d5b2c62"
+metafile = true
+
+[[files]]
+file = "mods/cobblemonraiddens.pw.toml"
+hash = "df0caa73114eebf0fc6c703c032a9321723d76f4bfa9fc1ec80715cbbd11e60f"
+metafile = true
+
+[[files]]
+file = "mods/complete-cobblemon-collection-myths-and-legends-compat.pw.toml"
+hash = "504e1c016abd88c7c2a3420aa9250476c81cbf6bec4b94accfac2eddd2dfe008"
 metafile = true
 
 [[files]]
@@ -77,6 +112,11 @@ hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
 metafile = true
 
 [[files]]
+file = "mods/geckolib.pw.toml"
+hash = "f9d3e15228374aefc979badb43aced7bfbdce83f4303af53626cd8579d58046c"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "1ca9696e57cdfa22c9a63adfce73e225826040d855c48d6bfd442ffab4a48e51"
 metafile = true
@@ -92,6 +132,16 @@ hash = "427c044e99ad72d1574d46b50608b676e74e3f204ae3527deb8afcf572dfc63e"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "50123c09c4693cf847ac3420fcef7cdb94ba57096b9dbb9f13deabedc8d9f62e"
+metafile = true
+
+[[files]]
 file = "mods/sodium.pw.toml"
 hash = "869af67848bf3b9ba4384bc9fb0cbe303d35263bd8de75eeabcba796edf4d7c6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/cobblemotion.pw.toml"
+hash = "b5af3ea5ca442f96e1b7e38ef4298607953faa64324e60695f8fefed14f31ca6"
 metafile = true
