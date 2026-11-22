@@ -1,0 +1,4 @@
+# Resource packs built into mods that the launcher switches on for everyone (one id per line).
+# Packs shipped as files in resourcepacks/ are switched on automatically and don't need to be listed.
+continuity:default
+continuity:glass_pane_culling_fix

@@ -2,6 +2,11 @@
     "items":  [
                   {
                       "date":  "2026.11.23",
+                      "title":  "줌 + 연결된 유리 추가",
+                      "body":  "C키를 누르고 있으면 화면이 확대돼요(마우스 휠로 배율 조절). 유리와 일부 블록이 이어진 모양으로 보여요."
+                  },
+                  {
+                      "date":  "2026.11.23",
                       "title":  "맵 초기화 + 새 모드 추가!",
                       "body":  "새 맵으로 시작해요. 메가진화·Z기술(Mega Showdown), 레이드 굴(Raid Dens), 전설 포켓몬(Myths and Legends), 포켓몬 모델 추가(Complete Cobblemon Collection), 새 애니메이션(CobbleMotion), 미니맵과 월드맵(Xaero's)이 들어왔어요. 지도는 M키로 열 수 있어요."
                   },
