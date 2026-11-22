@@ -160,3 +160,8 @@ metafile = true
 file = "resourcepacks/e19_cobblemon_minimap_icons.pw.toml"
 hash = "bd56de064f3d010f2030fbd46205679feee65142fb924ee35c937a06243dc199"
 metafile = true
+
+[[files]]
+file = "world/datapacks/cobblemotion-datapack.pw.toml"
+hash = "32b297d021518ce5e0dbd14c513bd14956148ed3979af2521a8d026381a3b72d"
+metafile = true

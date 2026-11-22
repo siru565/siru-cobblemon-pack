@@ -1,0 +1,8 @@
+name = "CobbleMotion Datapack"
+filename = "Cobblemotion v1.6.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/lIDAJAby/versions/R7qJrnqr/Cobblemotion%20v1.6.zip"
+hash-format = "sha256"
+hash = "6ed89c7197418335a170b5ea47b1d8ec2328fbfa36b5122944fbbda6f4a1e556"
