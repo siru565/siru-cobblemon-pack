@@ -30,15 +30,35 @@ hash = "0553526bdc59c80627b3a4777cd0736f697fbf7442e2e770568c3af5c7a7d499"
 
 [[files]]
 file = "config/fancymenu/customizablemenus.txt"
-hash = "11518baf6a44a2732e6a7bcb141a45dce4380069c87340a0b05717e90df8015e"
+hash = "1cebc1212da97d186748595f2fd7c794d87ce4de9e9430b2d7f8369a04755089"
+
+[[files]]
+file = "config/fancymenu/customization/connect_screen_layout.txt"
+hash = "f5a9b136e836a1e652badb74e92a83d7506c14d68e70940fddf74d6bcf72a73d"
+
+[[files]]
+file = "config/fancymenu/customization/generic_dirt_message_screen_layout.txt"
+hash = "e0fb04f428dca014ba5c8db820844062f3bfcc4d2d290194bc857c2b1bcb2190"
 
 [[files]]
 file = "config/fancymenu/customization/level_loading_screen_layout.txt"
 hash = "2ac4faaeee10e50cdbb91a790bc92b0086ed8a5d2fd6c47372dc120b066868bb"
 
 [[files]]
+file = "config/fancymenu/customization/progress_screen_layout.txt"
+hash = "6c81e118d51cdc0a84c0cb01f5e64bd01f32ccc916786766cba00481f2c323f9"
+
+[[files]]
+file = "config/fancymenu/customization/receiving_level_screen_layout.txt"
+hash = "48b6d21c3c49bf01a2201f0324c0fbd1ed9302fc7d0d7200d92194af0e7a5461"
+
+[[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
 hash = "4d1801af7ce7a66220984463f7ba9d70d794a9bbe03053bf3e0d38f9d4d42716"
+
+[[files]]
+file = "config/fancymenu/options.txt"
+hash = "3aabaa9f6b8c0ea32227c2715e41c9d1f45ba880d0a324535b219cb723d53050"
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
