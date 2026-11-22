@@ -1,6 +1,11 @@
 {
     "items":  [
                   {
+                      "date":  "2026.11.23",
+                      "title":  "맵 초기화 + 새 모드 추가!",
+                      "body":  "새 맵으로 시작해요. 메가진화·Z기술(Mega Showdown), 레이드 굴(Raid Dens), 전설 포켓몬(Myths and Legends), 포켓몬 모델 추가(Complete Cobblemon Collection), 새 애니메이션(CobbleMotion), 미니맵과 월드맵(Xaero's)이 들어왔어요. 지도는 M키로 열 수 있어요."
+                  },
+                  {
                       "date":  "2026.11.22",
                       "title":  "키컴퍼니 전용런처! 재배포 금지에요",
                       "body":  "서버는 하상훈 시간날때만 열립니다."
