@@ -1,6 +1,26 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/fancymenu/assets/button-hover.png"
+hash = "de9ad8ede6584a3896a942a9accaaef43dbbee0d0d6c5da5bf8ec9be0b07a0a5"
+
+[[files]]
+file = "config/fancymenu/assets/button-inactive.png"
+hash = "f12f17895205777cebfae33d15948be8fb629fbd1ce2d02fb20b0acc299c2236"
+
+[[files]]
+file = "config/fancymenu/assets/button-normal.png"
+hash = "d5f261d1c4cd3cb3f8e999a53d82971cc7984ec64b1fb34cdcaa2c09b1635f1f"
+
+[[files]]
+file = "config/fancymenu/assets/loading-background.fma"
+hash = "c5a5026194f7ea98e85f3f880bba4f955cf7064c9ec3ab4e08497daf767785a4"
+
+[[files]]
+file = "config/fancymenu/assets/title-background.fma"
+hash = "0553526bdc59c80627b3a4777cd0736f697fbf7442e2e770568c3af5c7a7d499"
+
+[[files]]
 file = "mods/cobblemon.pw.toml"
 hash = "7b456ba44d7ffde560f6a98edb9012fe17a8e47a74ff3701ec9026c07d5b2c62"
 metafile = true
@@ -11,13 +31,28 @@ hash = "1ed7a6439d9c3cd9bc8e7db6a4362eb710de0f4da90b619f883e99f5765e96c0"
 metafile = true
 
 [[files]]
+file = "mods/fancymenu.pw.toml"
+hash = "eef4a07d1d1873510c488d3b4209b9f322c345c0193cf45ad0350c9026aea3a0"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1d5799cd3b6ea714602c18546b99ba894e7511835b77803304792468fb7ee187"
 metafile = true
 
 [[files]]
+file = "mods/konkrete.pw.toml"
+hash = "1ca9696e57cdfa22c9a63adfce73e225826040d855c48d6bfd442ffab4a48e51"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "e10e639f71700a67d7f9b9d747e1685f838d703dadd432464b54e31b26f4742b"
+metafile = true
+
+[[files]]
+file = "mods/melody.pw.toml"
+hash = "427c044e99ad72d1574d46b50608b676e74e3f204ae3527deb8afcf572dfc63e"
 metafile = true
 
 [[files]]
