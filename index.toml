@@ -53,10 +53,6 @@ file = "config/fancymenu/customization/receiving_level_screen_layout.txt"
 hash = "48b6d21c3c49bf01a2201f0324c0fbd1ed9302fc7d0d7200d92194af0e7a5461"
 
 [[files]]
-file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "4d1801af7ce7a66220984463f7ba9d70d794a9bbe03053bf3e0d38f9d4d42716"
-
-[[files]]
 file = "config/fancymenu/options.txt"
 hash = "3aabaa9f6b8c0ea32227c2715e41c9d1f45ba880d0a324535b219cb723d53050"
 
