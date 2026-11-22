@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.1",
-    "sha256":  "2d87e8f67319bad040535b6c5400635722933b049f043099679ce272de74471b",
+    "version":  "1.2.2",
+    "sha256":  "52a604f1f918dcab09ea885cd9f3e1118f483db05fc72cb5bda2db3ef6131286",
+    "url":  "https://raw.githubusercontent.com/siru565/siru-cobblemon-pack/91707eeb03659f65da5f8f001458786b4d281e5e/launcher/SiruCobblemonLauncher.exe",
     "notes":  [
-                  "줌(C키)과 연결된 유리 텍스처가 추가됐어요",
-                  "연결된 유리 효과가 처음부터 켜져 있어요"
+                  "업데이트를 받을 때 '파일이 손상됐어요' 오류가 나던 문제를 고쳤어요"
               ]
 }
