@@ -13,12 +13,32 @@ file = "config/fancymenu/assets/button-normal.png"
 hash = "d5f261d1c4cd3cb3f8e999a53d82971cc7984ec64b1fb34cdcaa2c09b1635f1f"
 
 [[files]]
+file = "config/fancymenu/assets/icon-16.png"
+hash = "4a66dbc23bfb1729b5d4072ca6d54e04c4f40471945affd4b150b0571915cebc"
+
+[[files]]
+file = "config/fancymenu/assets/icon-32.png"
+hash = "93c389b460ccef4dd45e248897ea5a9717d510cec9f8356d6f5e7ed14144827e"
+
+[[files]]
 file = "config/fancymenu/assets/loading-background.fma"
 hash = "c5a5026194f7ea98e85f3f880bba4f955cf7064c9ec3ab4e08497daf767785a4"
 
 [[files]]
 file = "config/fancymenu/assets/title-background.fma"
 hash = "0553526bdc59c80627b3a4777cd0736f697fbf7442e2e770568c3af5c7a7d499"
+
+[[files]]
+file = "config/fancymenu/customizablemenus.txt"
+hash = "11518baf6a44a2732e6a7bcb141a45dce4380069c87340a0b05717e90df8015e"
+
+[[files]]
+file = "config/fancymenu/customization/level_loading_screen_layout.txt"
+hash = "2ac4faaeee10e50cdbb91a790bc92b0086ed8a5d2fd6c47372dc120b066868bb"
+
+[[files]]
+file = "config/fancymenu/customization/title_screen_layout.txt"
+hash = "4d1801af7ce7a66220984463f7ba9d70d794a9bbe03053bf3e0d38f9d4d42716"
 
 [[files]]
 file = "mods/cobblemon.pw.toml"
