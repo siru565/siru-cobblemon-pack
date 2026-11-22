@@ -117,6 +117,11 @@ hash = "f9d3e15228374aefc979badb43aced7bfbdce83f4303af53626cd8579d58046c"
 metafile = true
 
 [[files]]
+file = "mods/journeymap.pw.toml"
+hash = "84e7255eb7ce6cc5d33afd7a403a3d21ba461d8f0247e24c219eb13b01c10944"
+metafile = true
+
+[[files]]
 file = "mods/konkrete.pw.toml"
 hash = "1ca9696e57cdfa22c9a63adfce73e225826040d855c48d6bfd442ffab4a48e51"
 metafile = true
@@ -139,6 +144,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "869af67848bf3b9ba4384bc9fb0cbe303d35263bd8de75eeabcba796edf4d7c6"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "300dc47eb9052d109ab0687bbd1b9017516d7b168e53836781cdb86861f3ff79"
 metafile = true
 
 [[files]]
