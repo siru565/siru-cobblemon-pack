@@ -1,8 +1,9 @@
 {
-    "version":  "1.2.3",
-    "sha256":  "168e780ae2aace3a0c05e7e84c6fa2a2abebe4954dd031749a59152252c24042",
-    "url":  "https://raw.githubusercontent.com/siru565/siru-cobblemon-pack/d61665b68bdb857760bdc125b8d1051eaab88036/launcher/SiruCobblemonLauncher.exe",
+    "version":  "1.2.4",
+    "sha256":  "c2777cd750959ad35b7fab756091b4dc51f938b89cc32a401a2ffc731caa4d7d",
+    "url":  "https://raw.githubusercontent.com/siru565/siru-cobblemon-pack/fa267a2497e0de84f331c5ef031986c04170ca84/launcher/SiruCobblemonLauncher.exe",
     "notes":  [
-                  "런처 아래 풀밭에 포켓몬들이 걸어 다녀요 (피카츄, 이브이, 파이리 등)"
+                  "런처 왼쪽 위에 런처 버전이 보여요",
+                  "런처 아래 포켓몬이 60마리 중에서 무작위로 나와요"
               ]
 }
