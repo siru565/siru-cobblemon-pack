@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/siru-tools-1.0.0.jar"
-hash = "94f38b0d30f87c818436b7256cde63260377dc8c4e2a22a0be5750630b214f7c"
+hash = "68b0b82e8406623268d9976b9d95f0cf115c9cdd1f520505753918a5412aa77a"
 
 [[files]]
 file = "mods/sodium.pw.toml"
