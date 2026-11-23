@@ -1,0 +1,13 @@
+name = "ReSamurrot's"
+filename = "RESamurotts.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zCsePAQj/versions/vVG059pg/RESamurotts.zip"
+hash-format = "sha512"
+hash = "b54786883112d911c4e17587804ec891def2db845887f6627965bf9d1f2dd629686069a4d285ff9e0b9245f43b10a8f32da9315611c8b83cda10265470b48b31"
+
+[update]
+[update.modrinth]
+mod-id = "zCsePAQj"
+version = "vVG059pg"

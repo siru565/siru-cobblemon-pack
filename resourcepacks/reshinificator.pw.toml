@@ -1,0 +1,13 @@
+name = "Reshinificator - Cobblemon"
+filename = "Reshinificator 5.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/TolpDe1m/versions/MjvlKCxk/Reshinificator%205.1.zip"
+hash-format = "sha512"
+hash = "a601850bcc0591dc0907750f8e3fc9b24f37d39b9933a3c463b49236c19cd77ffbd25f5cd04ed0493b2ee5a71ba70c14eb7d00d1e5ed87b340ae3519ad518bcd"
+
+[update]
+[update.modrinth]
+mod-id = "TolpDe1m"
+version = "MjvlKCxk"

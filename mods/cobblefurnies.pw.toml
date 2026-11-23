@@ -1,0 +1,13 @@
+name = "CobbleFurnies"
+filename = "CobbleFurnies-Fabric-1.21.1-1.2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AXY1OO9m/versions/yKsrxgkQ/CobbleFurnies-Fabric-1.21.1-1.2.1.jar"
+hash-format = "sha512"
+hash = "0843400b8f717f45939c240d992b9e196fa7741bfd4d446a142f67b602a799754b74b50ea2b5ae6693e381c0e5d48ca15e26f1626b2e43d8cfae65811c273cb6"
+
+[update]
+[update.modrinth]
+mod-id = "AXY1OO9m"
+version = "yKsrxgkQ"

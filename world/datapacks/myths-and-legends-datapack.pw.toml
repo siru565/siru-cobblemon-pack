@@ -1,0 +1,8 @@
+name = "Myths and Legends Datapack"
+filename = "MythsAndLegends-Datapack-v1.0.5.zip"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/BUn2XhG1/versions/QGUUECu0/MythsAndLegends-Datapack-v1.0.5.zip"
+hash-format = "sha256"
+hash = "5ef1bb64608cb2bf9f6fae613225c672b96e8308acb8b50ede2cca0f39e5c2d9"

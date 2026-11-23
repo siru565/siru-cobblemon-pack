@@ -1,0 +1,13 @@
+name = "Cobblemon WTBIT"
+filename = "Cobblemon WTBIT resource pack 1.2.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/xzS6oIUg/versions/Xnk9qSn8/Cobblemon%20WTBIT%20resource%20pack%201.2.0.zip"
+hash-format = "sha512"
+hash = "fb5f031478445284634d4b9c8b4764faf62c0222df837feb25f3d66cde679e145fc3f4253aa590b60be0d86f06fbdb12beb79a6899e2bf01ab9fad167f10f8a3"
+
+[update]
+[update.modrinth]
+mod-id = "xzS6oIUg"
+version = "Xnk9qSn8"

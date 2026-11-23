@@ -1,0 +1,13 @@
+name = "Emissive Cobbled Gems"
+filename = "Emissive Cobbled Gems.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/tKURDwGx/versions/SY552e1w/Emissive%20Cobbled%20Gems.zip"
+hash-format = "sha512"
+hash = "3b2ad812c0a115143cff08678488a0c63c9969ebaae152e8f9f49afb6cf8513e0983b75aa51ed4094653259c5090c12a1ca4db6ef2a978dbfb32530db9bebc8b"
+
+[update]
+[update.modrinth]
+mod-id = "tKURDwGx"
+version = "SY552e1w"
