@@ -1,12 +1,9 @@
 {
-    "version":  "1.2.5",
-    "sha256":  "4732c03627f67bd500d2a2e00bfb7396a475fa75849cbe1ff15fdea6c59bdc1d",
-    "url":  "https://raw.githubusercontent.com/siru565/siru-cobblemon-pack/492584129013dfeeee53e5c8d44b0db503d9624c/launcher/SiruCobblemonLauncher.exe",
+    "version":  "1.2.6",
+    "sha256":  "da8b861b259cea6d53171137079a35bce2c0c64d68fb0592b9d6c60227486fda",
+    "url":  "https://raw.githubusercontent.com/siru565/siru-cobblemon-pack/6baa56691c6a8dc8e40c4079d084feab1e2a1b32/launcher/SiruCobblemonLauncher.exe",
     "notes":  [
-                  "소식이 게시판처럼 바뀌었어요. 누르면 전체 내용이 보여요",
-                  "하늘을 나는 포켓몬이 추가됐어요",
-                  "업데이트할 때 그동안의 패치노트를 모두 보여줘요",
-                  "메뉴에 변경사항이 있어요"
+                  "서버가 점검 중일 때 런처에 '서버 점검 중'으로 표시돼요"
               ],
     "history":  [
                     {
@@ -82,6 +79,12 @@
                                       "하늘을 나는 포켓몬이 추가됐어요",
                                       "업데이트할 때 그동안의 패치노트를 모두 보여줘요",
                                       "메뉴에 변경사항이 있어요"
+                                  ]
+                    },
+                    {
+                        "version":  "1.2.6",
+                        "notes":  [
+                                      "서버가 점검 중일 때 런처에 '서버 점검 중'으로 표시돼요"
                                   ]
                     }
                 ]
