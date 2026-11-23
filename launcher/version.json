@@ -1,8 +1,8 @@
 {
-    "version":  "1.2.2",
-    "sha256":  "52a604f1f918dcab09ea885cd9f3e1118f483db05fc72cb5bda2db3ef6131286",
-    "url":  "https://raw.githubusercontent.com/siru565/siru-cobblemon-pack/91707eeb03659f65da5f8f001458786b4d281e5e/launcher/SiruCobblemonLauncher.exe",
+    "version":  "1.2.3",
+    "sha256":  "168e780ae2aace3a0c05e7e84c6fa2a2abebe4954dd031749a59152252c24042",
+    "url":  "https://raw.githubusercontent.com/siru565/siru-cobblemon-pack/d61665b68bdb857760bdc125b8d1051eaab88036/launcher/SiruCobblemonLauncher.exe",
     "notes":  [
-                  "업데이트를 받을 때 '파일이 손상됐어요' 오류가 나던 문제를 고쳤어요"
+                  "런처 아래 풀밭에 포켓몬들이 걸어 다녀요 (피카츄, 이브이, 파이리 등)"
               ]
 }
