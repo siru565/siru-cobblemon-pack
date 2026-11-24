@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/siru-tools-1.0.0.jar"
-hash = "aeb73ad1f7571a3358eb3c368761db57670b46cfd7d0d1d7ea5ef96aa6badbed"
+hash = "a88899f4233ab9fc546a70f2798274ad16fff210062e4f9fcc0d730e42fdecd7"
 
 [[files]]
 file = "mods/sodium.pw.toml"
@@ -283,6 +283,16 @@ metafile = true
 [[files]]
 file = "mods/trinkets.pw.toml"
 hash = "860812150cb54f0d9ee1bce7b72798b6cc5f752bb05709f0c60231d054ec281d"
+metafile = true
+
+[[files]]
+file = "mods/worldedit-cui.pw.toml"
+hash = "63a6ea637ca1cc5ff0183ccd3e6e59278085cba0cab8eff99e715e8bccb54699"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "de999f6cc4c2f344e324b4f331fa9767844c31463c6e8066fcd67b613338ab8c"
 metafile = true
 
 [[files]]
