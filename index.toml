@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/siru-tools-1.0.0.jar"
-hash = "ff2478c56e7bca5cc6ab85193dd7755f49b4029068498e347eb8304f7067fce7"
+hash = "bb0c93f1b47775563bd4bb20962f3e51cc5e94bf4a376d3c2b5da916e8d3c7ed"
 
 [[files]]
 file = "mods/sodium.pw.toml"
@@ -359,3 +359,7 @@ metafile = true
 file = "world/datapacks/myths-and-legends-datapack.pw.toml"
 hash = "88135d05c29c4949818f07cc4bd50d4b0e335c86877cf4c178d2f21ab7781ab6"
 metafile = true
+
+[[files]]
+file = "world/datapacks/siru-balance.zip"
+hash = "cca88029ae1d7277b5dba6923d95555fb13ceb65b128e98d0ec3987f631647cd"
