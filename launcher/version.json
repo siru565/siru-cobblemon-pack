@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.6",
-    "sha256":  "da8b861b259cea6d53171137079a35bce2c0c64d68fb0592b9d6c60227486fda",
-    "url":  "https://raw.githubusercontent.com/siru565/siru-cobblemon-pack/6baa56691c6a8dc8e40c4079d084feab1e2a1b32/launcher/SiruCobblemonLauncher.exe",
+    "version":  "1.2.7",
+    "sha256":  "ef9ce31686cc4687369eccb5faa0a1642a8f07eae4fb0c00e234aae250b701d3",
+    "url":  "https://raw.githubusercontent.com/siru565/siru-cobblemon-pack/04a4255e48d0da364190a26f5c83eb037ccf2587/launcher/SiruCobblemonLauncher.exe",
     "notes":  [
-                  "서버가 점검 중일 때 런처에 '서버 점검 중'으로 표시돼요"
+                  "런처 오른쪽 위에 낮/밤 배경 바꾸기 버튼이 생겼어요 (게임 G 메뉴도 같이 바뀌어요)"
               ],
     "history":  [
                     {
@@ -85,6 +85,12 @@
                         "version":  "1.2.6",
                         "notes":  [
                                       "서버가 점검 중일 때 런처에 '서버 점검 중'으로 표시돼요"
+                                  ]
+                    },
+                    {
+                        "version":  "1.2.7",
+                        "notes":  [
+                                      "런처 오른쪽 위에 낮/밤 배경 바꾸기 버튼이 생겼어요 (게임 G 메뉴도 같이 바뀌어요)"
                                   ]
                     }
                 ]
