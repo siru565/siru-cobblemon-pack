@@ -263,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/siru-tools-1.0.0.jar"
-hash = "609dff3d6189ab7855fd63be301c7c58171f54bd3a3736c1899bcf2b625cb658"
+hash = "b7a8207575f9e0d84cfb875626e06a9648cb66b87eb13c0ec81cab512ac733a1"
 
 [[files]]
 file = "mods/sodium.pw.toml"
@@ -363,3 +363,7 @@ metafile = true
 [[files]]
 file = "world/datapacks/siru-balance.zip"
 hash = "cca88029ae1d7277b5dba6923d95555fb13ceb65b128e98d0ec3987f631647cd"
+
+[[files]]
+file = "world/datapacks/siru-raids.zip"
+hash = "d828d42857f4be16d420f85e35a9b291c04668e8052075d7e8f9333f83e4e996"
