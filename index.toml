@@ -227,6 +227,11 @@ hash = "8098837346ac6eb548c14b6085aadd8202455034b0808fe71c753d330c7612b6"
 metafile = true
 
 [[files]]
+file = "mods/ledger.pw.toml"
+hash = "c12090d1aa1239085a4b3d790900823ad14a40eacbd8fa42d9626d22995a8a80"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "e10e639f71700a67d7f9b9d747e1685f838d703dadd432464b54e31b26f4742b"
 metafile = true
@@ -258,7 +263,7 @@ metafile = true
 
 [[files]]
 file = "mods/siru-tools-1.0.0.jar"
-hash = "a88899f4233ab9fc546a70f2798274ad16fff210062e4f9fcc0d730e42fdecd7"
+hash = "86e0d45b509567e351abafea489be550af71c52124a11af54fbfde6acd2f870f"
 
 [[files]]
 file = "mods/sodium.pw.toml"
