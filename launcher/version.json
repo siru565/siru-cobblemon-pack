@@ -1,9 +1,9 @@
 {
-    "version":  "1.2.7",
-    "sha256":  "ef9ce31686cc4687369eccb5faa0a1642a8f07eae4fb0c00e234aae250b701d3",
-    "url":  "https://raw.githubusercontent.com/siru565/siru-cobblemon-pack/04a4255e48d0da364190a26f5c83eb037ccf2587/launcher/SiruCobblemonLauncher.exe",
+    "version":  "1.2.8",
+    "sha256":  "52e0a4dbd9e8255c2f6aa0f0609b69535e585de68c1dfde2fc8ea931acdaf5ec",
+    "url":  "https://raw.githubusercontent.com/siru565/siru-cobblemon-pack/0f98d51cb5b12fcc1180167fe1cf345b0852c779/launcher/SiruCobblemonLauncher.exe",
     "notes":  [
-                  "런처 오른쪽 위에 낮/밤 배경 바꾸기 버튼이 생겼어요 (게임 G 메뉴도 같이 바뀌어요)"
+                  "런처에서 내 오늘의 퀘스트 진행도와 받을 보상을 볼 수 있어요,퀘스트는 이 PC에서 로그인한 계정 기준으로 보여요"
               ],
     "history":  [
                     {
@@ -91,6 +91,12 @@
                         "version":  "1.2.7",
                         "notes":  [
                                       "런처 오른쪽 위에 낮/밤 배경 바꾸기 버튼이 생겼어요 (게임 G 메뉴도 같이 바뀌어요)"
+                                  ]
+                    },
+                    {
+                        "version":  "1.2.8",
+                        "notes":  [
+                                      "런처에서 내 오늘의 퀘스트 진행도와 받을 보상을 볼 수 있어요,퀘스트는 이 PC에서 로그인한 계정 기준으로 보여요"
                                   ]
                     }
                 ]
